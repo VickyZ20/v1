@@ -6,7 +6,7 @@
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www"
   },
-  "author": "Alex Yang",
+  "author": "Vicky Z",
   "license": "MIT",
   "keywords": [],
   "description": "backend config for driveway sharing app",
