@@ -87,6 +87,7 @@ function CreatePost() {
     "Ham Tin",
     "Kam Tin",
     "Kwai Chung",
+    "Kowloon Tong",
     "Ma Liu Shui",
     "Mo Tat Wan",
     "Nim Wan",
@@ -249,10 +250,10 @@ function CreatePost() {
       <Container>
         <br />
         <div>
-          <h4>Location Info</h4>
+          <h4>Address Info</h4>
           <Form>
             <Form.Group controlId="formGridAddress1">
-              <Form.Label>Address</Form.Label>
+              <Form.Label>Location</Form.Label>
               <Form.Control
                 placeholder=" "
                 name="street"
@@ -579,16 +580,7 @@ function CreatePost() {
             </Form.Row>
           </div>
           <div className="col-sm-4">
-            <div>
-              <Form.File
-                required
-                name="file"
-                //label="Upload Drive Way Picture"
-                onChange={handleFile}
-                id="validationFormik107"
-                feedbackTooltip
-              />
-            </div>
+            <div></div>
           </div>
         </Container>
         <br />
