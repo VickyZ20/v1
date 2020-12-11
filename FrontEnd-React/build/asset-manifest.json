@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d12c3cea.chunk.css",
+    "main.js": "/static/js/main.62bfccf9.chunk.js",
+    "main.js.map": "/static/js/main.62bfccf9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f49b074.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f49b074.js.map",
+    "static/css/2.ec60dbca.chunk.css": "/static/css/2.ec60dbca.chunk.css",
+    "static/js/2.2270eaf2.chunk.js": "/static/js/2.2270eaf2.chunk.js",
+    "static/js/2.2270eaf2.chunk.js.map": "/static/js/2.2270eaf2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ec60dbca.chunk.css.map": "/static/css/2.ec60dbca.chunk.css.map",
+    "static/css/main.d12c3cea.chunk.css.map": "/static/css/main.d12c3cea.chunk.css.map",
+    "static/js/2.2270eaf2.chunk.js.LICENSE.txt": "/static/js/2.2270eaf2.chunk.js.LICENSE.txt",
+    "static/media/hola.css": "/static/media/o1.98d8420f.png",
+    "static/media/sign_in.css": "/static/media/Welcome-Back.70aa5a9c.jpg",
+    "static/media/MyBooking.css": "/static/media/booking.3979539d.png",
+    "static/media/sign_up.css": "/static/media/driveway.dbe1b124.png",
+    "static/media/logo.3f0fe25e.png": "/static/media/logo.3f0fe25e.png",
+    "static/media/home.css": "/static/media/map.cfb3cb6a.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f49b074.js",
+    "static/css/2.ec60dbca.chunk.css",
+    "static/js/2.2270eaf2.chunk.js",
+    "static/css/main.d12c3cea.chunk.css",
+    "static/js/main.62bfccf9.chunk.js"
+  ]
+}
